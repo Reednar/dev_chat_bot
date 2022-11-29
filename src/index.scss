@@ -1,0 +1,14 @@
+@charset "utf-8";
+
+body {
+  overflow: hidden;
+}
+
+.messages{
+  height: 85vh;
+  overflow-y: scroll;
+}
+
+.list-bot:hover{
+    background-color: #a5a5a5;
+}
